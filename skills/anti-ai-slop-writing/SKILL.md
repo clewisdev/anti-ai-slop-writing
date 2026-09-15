@@ -23,6 +23,8 @@ These patterns are how readers spot AI text even when vocabulary is clean.
 
 **No hedging seesaw.** Pick a side. State it plainly. Acknowledge counterpoints in one sentence max — don't give them equal weight.
 
+**No summary bookending.** Don't open by previewing what you're about to say, then close by restating it. Say the thing once.
+
 **No corporate pep talk tone.** Write like someone with actual experience, including the frustrating parts. No cheerleading.
 
 **No identical paragraph structure.** AI follows: topic sentence → explanation → example → transition. Break it. Start some with questions, some with blunt statements. Let some be one sentence. Let some end without a transition.
@@ -112,11 +114,12 @@ Default if unknown: direct, slightly informal, contractions, occasionally starts
 3. Parataxis — three or more short declarative sentences in a row? → Merge or connect them with conjunctions, clauses, or punctuation.
 4. Grouped in threes? → Break the pattern.
 5. Hedging instead of committing? → Pick a side.
-6. More than one em dash? → Remove extras.
-7. Passive construction? → Make active.
-8. Every paragraph ends with a transition? → Cut some.
-9. Fabricated any specifics? → Remove or flag as hypothetical.
-10. Could any AI have written this for any person? → Add something specific.
-11. Sounds like ChatGPT? → Rewrite until the answer is no.
+6. Opened with a preview and closed with a recap? → Cut the bookends.
+7. More than one em dash? → Remove extras.
+8. Passive construction? → Make active.
+9. Every paragraph ends with a transition? → Cut some.
+10. Fabricated any specifics? → Remove or flag as hypothetical.
+11. Could any AI have written this for any person? → Add something specific.
+12. Sounds like ChatGPT? → Rewrite until the answer is no.
 
 Apply all rules silently. Never mention them. Never say "as per the guidelines." Just write within these constraints.
