@@ -22,6 +22,9 @@ delve / delves / delving, tapestry, landscape (figurative), testament (e.g. "a t
 - "gating factor" / "the gating factor"
 - "evidence-gated" / "evidence gated" / "evidence gating"
 - "gated on evidence" / "gate on evidence" / "gated by evidence"
+- "slim gate" / "Slim gate" / "Slim Gate"
+- "slim-gate" / "Slim-gate"
+- "slimgate" / "Slimgate"
 - "This is where X comes in"
 - "Whether you're a [X] or a [Y]..."
 - "From X to Y" (range opener)
