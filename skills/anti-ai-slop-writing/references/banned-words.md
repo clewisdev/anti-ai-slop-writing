@@ -32,6 +32,8 @@ delve / delves / delving, tapestry, landscape (figurative), testament (e.g. "a t
 - "The bottom line is..."
 - "Here's the thing..."
 - "Here's the deal..."
+- "my honest take" / "My honest take" / "honest take"
+- "my honest opinion" / "if I'm being honest"
 - "Without further ado..."
 - "In a nutshell..."
 - "Buckle up"
