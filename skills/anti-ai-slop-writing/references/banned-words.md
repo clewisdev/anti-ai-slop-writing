@@ -4,7 +4,7 @@ These are statistically flagged as AI-generated text markers across multiple stu
 
 ## Banned Vocabulary
 
-delve / delves / delving, tapestry, landscape (figurative), testament (e.g. "a testament to"), vibrant, pivotal, crucial, vital, essential, key (as filler), load-bearing (figurative), elegant (as filler praise), powerful (as filler), fundamentally (as filler), intricate / intricacies, meticulous / meticulously, bolster / bolstered, garner / garnered, underscore / underscores, interplay, multifaceted, nuanced (as filler), foster / fostering, leverage (as verb), utilize (say "use"), commence (say "start"), facilitate, encompass / encompassing, paramount, groundbreaking, cutting-edge, game-changing / game-changer, transformative, revolutionise / revolutionize, seamless / seamlessly, robust (outside engineering), comprehensive (describing own output), endeavour / endeavor, aforementioned, harnessing, spearheading, navigating (figurative), showcasing, highlighting, emphasizing, enhancing, unprecedented, remarkable, stunning, profound, epic (non-literal), in essence, thought leader / thought leadership, synergy / synergies, pain points, value add / value proposition (casual contexts), moving forward, touch base / circle back, rest assured, it goes without saying
+delve / delves / delving, tapestry, landscape (figurative), testament (e.g. "a testament to"), vibrant, pivotal, crucial, vital, essential, key (as filler), load-bearing (figurative), elegant (as filler praise), powerful (as filler), fundamentally (as filler), intricate / intricacies, meticulous / meticulously, bolster / bolstered, garner / garnered, underscore / underscores, interplay, multifaceted, nuanced (as filler), foster / fostering, leverage (as verb), utilize (say "use"), commence (say "start"), facilitate, encompass / encompassing, paramount, groundbreaking, cutting-edge, game-changing / game-changer, transformative, revolutionise / revolutionize, seamless / seamlessly, robust (outside engineering), minted / mint / minting (jargon for create/allocate IDs, records, handles; not coinage or NFT mint APIs), comprehensive (describing own output), endeavour / endeavor, aforementioned, harnessing, spearheading, navigating (figurative), showcasing, highlighting, emphasizing, enhancing, unprecedented, remarkable, stunning, profound, epic (non-literal), in essence, thought leader / thought leadership, synergy / synergies, pain points, value add / value proposition (casual contexts), moving forward, touch base / circle back, rest assured, it goes without saying
 
 ## Banned Phrases
 
@@ -25,6 +25,8 @@ delve / delves / delving, tapestry, landscape (figurative), testament (e.g. "a t
 - "slim gate" / "Slim gate" / "Slim Gate"
 - "slim-gate" / "Slim-gate"
 - "slimgate" / "Slimgate"
+- "minted a" / "mint a" (identifier, record, uuid, handle, ticket)
+- "we minted" (as create/allocate)
 - "This is where X comes in"
 - "Whether you're a [X] or a [Y]..."
 - "From X to Y" (range opener)
